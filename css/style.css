@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Jost', sans-serif !important;
+}
+
+.icon{
+	/* width:100%!important; */
+	/* display: flex!important; */
+	justify-content: center!important;
+}
+
+.text-xl{
+	font-size: 2rem !important;
+}
+
+.imgg{
+	width: 400px !important;
+	height: 400px !important;
+}
